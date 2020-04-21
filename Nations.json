@@ -1,30 +1,63 @@
 [
 	{
 		"name": "Valkyrion",
-		"leaderName": "King Karl",
-		"adjective": ["Valkyrmen"],
-		"startBias": ["Tundra"],
+		"leaderName": "KingKarl",
+		"adjective": [
+			"Valkyrmen"
+		],
+		"startBias": [
+			"Tundra"
+		],
 		"preferredVictoryType": "Domination",
-		
-		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
-		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
-		
-		"declaringWar": "My ships have beached on your shores, and my men are hungry!",
-		"attacked": "Lah, you aren't worthy of even a proper fight, trust me.",
-		"defeated": "I trust I have fought well, so I shall enter a warrior's heaven!",
-		"introduction": "Har, greetings from the great and strong Valkyrions!",
-		
-		"neutralHello": "Oh come on, I trust you brought some booze?",
-		"hateHello": "I distaste those who think they can belittle me so eagerly...",
-		
-		"tradeRequest": "Greetings! The Valkyrmen are not usually good at these so let's do it fast.",
-				
+		"startIntroPart1": "The people bow to your esteemed will, o wise and illustrious King Ashurbanipal of Assyria. Across the world, you are known as both a scholar and a warrior, and yet the legends represent merely a glimmer of your true ambition. Although your enemies cowered at the thought of your ferocity in conquest, you were most proud of your intellectual pursuits. Your thirst for knowledge led to your establishment of the royal library at Nineveh, which came to represent one of the greatest collections of ancient texts and tablets found anywhere in the world - securing your legacy as one of Assyria's greatest kings.",
+		"startIntroPart2": "Wise and fearsome king, the time has come for you to return the kingdom of Assyria to its greatest heights. Will you once again strive to acquire the knowledge and histories of all the world's peoples? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "I fear there is no other choice but to remove you from this world!",
+		"attacked": "I think you will come to regret this decision...most unwise.",
+		"defeated": "We may be defeated, but our legacy will live on in the written word!",
+		"introduction": "I welcome you to the great kingdom of Assyria...have you come to view my library?",
+		"neutralHello": "?",
+		"neutralLetsHearIt": [
+			"Go on.",
+			"I will listen to you.",
+			"Yes?"
+		],
+		"neutralNo": [
+			"?",
+			"?",
+			" No! Certainly not!"
+		],
+		"neutralYes": [
+			"Very well",
+			"I agree!",
+			"I agree."
+		],
+		"hateHello": "?",
+		"hateLetsHearIt": [
+			"?",
+			"What now?!",
+			"What do you want?"
+		],
+		"hateNo": [
+			"No!",
+			"?",
+			"?"
+		],
+		"hateYes": [
+			"?",
+			"?",
+			"So be it."
+		],
+		"afterPeace": [
+			"So shall it be written, today we are the victors!"
+		],
+		"tradeRequest": "Will you consider a trade?",
 		"outerColor": [21,107,91],
 		"innerColor": [181,209,255],
-		"unique": "BUSHIDO",
-		"cities": ["Svargard","Hofsland","Oleifsbjorg","Helgavall","Ivarhelm","Hafnarfjoll","Bergthors","Mooruvellir","Skorravik","Krossa",
+		"cities": [
+			"Svargard","Hofsland","Oleifsbjorg","Helgavall","Ivarhelm","Hafnarfjoll","Bergthors","Mooruvellir","Skorravik","Krossa",
 			"Hvitbjorg","Barosvik","Leikskalar","Hraunadalr","Skalagard","Kambrholm","Oskarberg","Guldagr","Balkile","Jagersund",
 			"Grymhalla","Kavartavas","Jonhammar","Vethelm","Miklagard","Halmland","Strandberg","Koperkenes","Karlheim","Kramdal",
-			"Haderslav","Verdalsund","Vadfjord","Valkear","Arhammar","Reykseyri","Falkenberg","Vilna","Statheim","Granvall"]
+			"Haderslav","Verdalsund","Vadfjord","Valkear","Arhammar","Reykseyri","Falkenberg","Vilna","Statheim","Granvall"
+		]
 	}
 ]
