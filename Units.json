@@ -12,6 +12,8 @@
 	},
   	{
 		"name": "Valkyr",
+		"uniqueTo": "Valkyrion",
+		"replaces": "Longswordsman",
 		"unitType": "Melee",
 		"movement": 2,
 		"strength": 21,
