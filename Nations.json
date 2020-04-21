@@ -2,63 +2,25 @@
 	{
 		"name": "Valkyrion",
 		"leaderName": "King Karl",
-		"adjective": [
-			"Valkyrmen"
-		],
-		"startBias": [
-			"Tundra"
-		],
+		"adjective": ["Valkyrmen"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
-		"startIntroPart1": "The people bow to your esteemed will, o wise and illustrious King Ashurbanipal of Assyria. Across the world, you are known as both a scholar and a warrior, and yet the legends represent merely a glimmer of your true ambition. Although your enemies cowered at the thought of your ferocity in conquest, you were most proud of your intellectual pursuits. Your thirst for knowledge led to your establishment of the royal library at Nineveh, which came to represent one of the greatest collections of ancient texts and tablets found anywhere in the world - securing your legacy as one of Assyria's greatest kings.",
-		"startIntroPart2": "Wise and fearsome king, the time has come for you to return the kingdom of Assyria to its greatest heights. Will you once again strive to acquire the knowledge and histories of all the world's peoples? Can you build a civilization that will stand the test of time?",
-		"declaringWar": "My ships have beached your lands, my warriors are numerous!",
-		"attacked": "Who in Valkyr's name are you to attack us?",
-		"defeated": "I have fought well, no? I enter a warrior's heaven...",
-		"introduction": "Har, greetings from the strong and mighty Valkyrion!",
-		"neutralHello": "Oh come on, you brought booze?",
-		"neutralLetsHearIt": [
-			"Go on.",
-			"I will listen to you.",
-			"Yes?"
-		],
-		"neutralNo": [
-			"?",
-			"?",
-			" No! Certainly not!"
-		],
-		"neutralYes": [
-			"Very well",
-			"I agree!",
-			"I agree."
-		],
-		"hateHello": "I don't tolerate those who belittle me so easily...",
-		"hateLetsHearIt": [
-			"?",
-			"What now?!",
-			"What do you want?"
-		],
-		"hateNo": [
-			"No!",
-			"?",
-			"?"
-		],
-		"hateYes": [
-			"?",
-			"?",
-			"So be it."
-		],
-		"afterPeace": [
-			"So shall it be written, today we are the victors!"
-		],
-		"tradeRequest": "The Valkyrmen are not good at this business, so let us be fast.",
-		"outerColor": [21,107,91],
-		"innerColor": [181,209,255],
+		
+		"startIntroPart1": "Blessings upon you, noble Oda Nobunaga, ruler of Japan, the land of the Rising Sun! May you long walk among its flowering blossoms. The Japanese are an island people, proud and pious with a rich culture of arts and letters. Your civilization stretches back thousands of years, years of bloody warfare, expansion and isolation, great wealth and great poverty. In addition to their prowess on the field of battle, your people are also immensely industrious, and their technological innovation and mighty factories are the envy of lesser people everywhere.",
+		"startIntroPart2": "Legendary damiyo, will you grab the reins of destiny? Will you bring your family and people the honor and glory they deserve? Will you once again pick up the sword and march to triumph? Will you build a civilization that stands the test of time?",
+		"declaringWar": "My ships have beached on your lands, my warriors, hungry!",
+		"attacked": "You are not worth a fight, trust me.",
+		"defeated": "As I fought well, I shall now enter a warriors heaven...",
+		"introduction": "The strong and mighty Valkyrion greets you!",
+		"neutralHello": "Ah, the foreigner. You brought some booze atleast?",
+		"hateHello": "I do not tolerate those who belittle me so easily...",
+		"tradeRequest": "We are not good at this sort of thing, so let us be quick.",
+		"outerColor": [79,75,130],
+		"innerColor": [18,10,130],
 		"unique": "BUSHIDO",
-		"cities": [
-			"Svargard","Hofsland","Oleifsbjorg","Helgavall","Ivarhelm","Hafnarfjoll","Bergthors","Mooruvellir","Skorravik","Krossa",
+		"cities": ["Svargard","Hofsland","Oleifsbjorg","Helgavall","Ivarhelm","Hafnarfjoll","Bergthors","Mooruvellir","Skorravik","Krossa",
 			"Hvitbjorg","Barosvik","Leikskalar","Hraunadalr","Skalagard","Kambrholm","Oskarberg","Guldagr","Balkile","Jagersund",
 			"Grymhalla","Kavartavas","Jonhammar","Vethelm","Miklagard","Halmland","Strandberg","Koperkenes","Karlheim","Kramdal",
-			"Haderslav","Verdalsund","Vadfjord","Valkear","Arhammar","Reykseyri","Falkenberg","Vilna","Statheim","Granvall"
-		]
+			"Haderslav","Verdalsund","Vadfjord","Valkear","Arhammar","Reykseyri","Falkenberg","Vilna","Statheim","Granvall"]
 	}
 ]
