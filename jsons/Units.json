@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Raidbearer",
+		"uniqueTo": "Valkyrion",
+		"replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 5,
+		"cost": 25,
+		"uniques": ["Ignores terrain cost","Double movement in coast"],
+		"attackSound": "nonmetalhit"
+	},
+  	{
+		"name": "Valkyr",
+		"uniqueTo": "Valkyrion",
+		"replaces": "Longswordsman",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Amphibious","No movement cost to pillage"],
+		"promotions": ["Blitz"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	}
+]

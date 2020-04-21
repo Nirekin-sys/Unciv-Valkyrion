@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Valkyrion",
+		"leaderName": "King Karl",
+		"adjective": ["Valkyrmen"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Blessings upon you, noble Oda Nobunaga, ruler of Japan, the land of the Rising Sun! May you long walk among its flowering blossoms. The Japanese are an island people, proud and pious with a rich culture of arts and letters. Your civilization stretches back thousands of years, years of bloody warfare, expansion and isolation, great wealth and great poverty. In addition to their prowess on the field of battle, your people are also immensely industrious, and their technological innovation and mighty factories are the envy of lesser people everywhere.",
+		"startIntroPart2": "Legendary damiyo, will you grab the reins of destiny? Will you bring your family and people the honor and glory they deserve? Will you once again pick up the sword and march to triumph? Will you build a civilization that stands the test of time?",
+		"declaringWar": "My ships have beached on your lands, my warriors, hungry!",
+		"attacked": "You are not worth a fight, trust me.",
+		"defeated": "As I fought well, I shall now enter a warriors heaven...",
+		"introduction": "The strong and mighty Valkyrion greets you!",
+		"neutralHello": "Ah, the foreigner. You brought some booze atleast?",
+		"hateHello": "I do not tolerate those who belittle me so easily...",
+		"tradeRequest": "We are not good at this sort of thing, so let us be quick.",
+		"outerColor": [13,14,30],
+		"innerColor": [255,255,255],
+		"unique": "BUSHIDO",
+		"cities": ["Svargard","Hofsland","Oleifsbjorg","Helgavall","Ivarhelm","Hafnarfjoll","Bergthors","Mooruvellir","Skorravik","Krossa",
+			"Hvitbjorg","Barosvik","Leikskalar","Hraunadalr","Skalagard","Kambrholm","Oskarberg","Guldagr","Balkile","Jagersund",
+			"Grymhalla","Kavartavas","Jonhammar","Vethelm","Miklagard","Halmland","Strandberg","Koperkenes","Karlheim","Kramdal",
+			"Haderslav","Verdalsund","Vadfjord","Valkear","Arhammar","Reykseyri","Falkenberg","Vilna","Statheim","Granvall"]
+	}
+]
